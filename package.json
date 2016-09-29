@@ -1,12 +1,12 @@
 {
-  "name": "handlebar-helpers",
-  "description": "",
-  "homepage": "https://github.com/firstandthird/handlebar-helpers",
+  "name": "hbshelpers",
+  "description": "Handlebar Helpers",
+  "homepage": "https://github.com/firstandthird/hbshelpers",
   "author": "First+Third",
   "version": "0.0.1",
   "repository": {
     "type": "git",
-    "url": "https://github.com/firstandthird/handlebar-helpers.git"
+    "url": "https://github.com/firstandthird/hbshelpers.git"
   },
   "dependencies": {
     "autolinker": "^0.26.0"
