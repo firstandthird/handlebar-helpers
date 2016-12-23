@@ -9,6 +9,6 @@
     "url": "https://github.com/firstandthird/hbshelpers.git"
   },
   "dependencies": {
-    "autolinker": "^0.26.0"
+    "autolinker": "^1.4.0"
   }
 }
